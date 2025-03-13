@@ -1,1 +1,2 @@
-SeRe: A Security-Related Code Review Dataset Aligned with Real-World Review Activities
+# SeRe
+SeRe is a security-related code review dataset collected through an active learning-based ensemble classifier. SeRe contains 6,732 security-related review comments gathered from a wide range of programming languages(C,C#,C++,Java,Go). The dataset reflects real-world security-related code review distributions, providing a valuable resource for both researchers and practitioners. SeRe enables the evaluation of review generation approaches and highlights the challenges of generating accurate security-focused feedback. More details about SeRe can be found in our paper [link].
