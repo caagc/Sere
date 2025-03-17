@@ -4,10 +4,10 @@ SeRe is a security-related code review dataset collected through an active learn
 # Structure
 Due to file size limitations, we have stored some files in ZIP format.
 In the `code` folder, we provide:
-- `data``: 
+- `data`: 
     - `sere.zip`
         - `sere.jsonl`: Final Dataset SeRe
-    - `data.zip`
+    - `dataset.zip`
         - `test.json`: Used for RQ2's ensemble classfier's performance evaluation
         - `val.json`: Validation Set used for training
         - `train.json`: training dataset constructed using iterative active learning
